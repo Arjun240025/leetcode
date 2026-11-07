@@ -38,4 +38,16 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arjun240025/leetcode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arjun240025/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arjun240025/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arjun240025/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
