@@ -16,10 +16,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arjun240025/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Arjun240025/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arjun240025/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arjun240025/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arjun240025/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arjun240025/leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Arjun240025/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
