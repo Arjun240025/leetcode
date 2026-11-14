@@ -23,6 +23,7 @@
 | [0242-valid-anagram](https://github.com/Arjun240025/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Arjun240025/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arjun240025/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Arjun240025/leetcode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0125-valid-palindrome](https://github.com/Arjun240025/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arjun240025/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Arjun240025/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Arjun240025/leetcode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Arjun240025/leetcode/tree/master/0202-happy-number) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Arjun240025/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
